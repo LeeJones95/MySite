@@ -1,0 +1,30 @@
+#first {
+    color:lightpink;
+  }
+  
+  .list {
+    color:white;
+  }
+  body {
+    font-family: 'Fira Sans Condensed', sans-serif;
+    background-color: black;
+    
+  }
+  
+  .content-container {
+    outline: white 5px solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  
+  #about-me {
+    color:white
+  }
+  
+  
+  
+  
+  
+  
